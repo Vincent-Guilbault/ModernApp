@@ -1,6 +1,6 @@
 import React from 'react';
 import './footer.css';
-import gpt3Logo from '../../assets/logo.png';
+import gpt3Logo from '../../assets/logo_white.png';
 
 const Footer = () => (
   <div className="gpt3__footer section__padding">
